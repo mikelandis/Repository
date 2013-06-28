@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mike Landis</title>
+</head>
+<h1>Website</h1>
+<h2>Written by Mike Landis</h2>
+<body style= "background-color:#336600;color:#FFFFF0""width: 400px">
+<body>
+	<img src="http://www-math.ucdenver.edu/~wcherowi/clock.gif" alt="Clock"><br>
+	<script language="javascript"> 
+	<!-- 
+	today = new Date(); 
+	document.write("<BR>The time now is: ", today.getHours(),":",today.getMinutes(),":",today.getSeconds(),":",today.getMilliseconds()); 
+	document.write("<BR>The date is: ", today.getDate(),"/",today.getMonth()+1,"/",today.getYear());
+	//--> 
+	</script><br>	
+	Please fill in this incredibly pointless survey truthfully to the best of your abilities.
+<form>
+---Name--    
+<input type="text" name="name"><br>
+Password
+<input type="password" name="pwd"><br>
+</form>
+<br>
+<form>
+Male or Female?<br>
+<input type="radio" name="sex" value="male">Male<br>
+<input type="radio" name="sex" value="female">Female<br>
+<input type="radio" name="sex" value="other">Other<br>
+<input type="radio" name="sex" value="Idontknow">I Don't Know'<br>
+</form>
+<br>
+<form>
+Favorite Food?<br>
+<input type="checkbox" name="favorite food" value="ice cream">Ice Cream<br>
+<input type="checkbox" name="favorite food" value="pizaa">Pizza<br>
+<input type="checkbox" name="favorite food" value="burger">Burger<br>
+<input type="checkbox" name="favorite food" value="chocolate">Chocolate<br>
+</form>
+<br>
+<table border="1">
+<tr>
+<td>1,1</td>
+<td>1,2</td>
+</tr>	
+<tr>	
+<td>2,1</td>
+<td>2,2</td>
+</tr>
+</table>	
+here is a link to a game
+<a href="http://scratch.mit.edu/projects/11141416/">Fish Gameå</a>
+</body>
+</html>
