@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Webpage</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div id="header">
+</div>
+
+<div id="left_column">
+</div>
+
+<div id="main_content">
+</div>
+
+<div id="footer">
+</div>
+
+</body>
+</html>
