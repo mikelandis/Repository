@@ -6,17 +6,56 @@
 </head>
 <body>
 
+
+
+
 <div id="header">
+	<h1 style="text-align:center;">Mike Landis</h1>
 </div>
+
+
+
 
 <div id="left_column">
+	<h2>Links</h2>
+	<br>
+	<h3></h3>
 </div>
 
+
+
+
 <div id="main_content">
+	<h10 style="text-align:center;">About Me</h10><br>
+	<p>
+		<ol>
+			<li>Name-Mike Landis</li>
+			<li>Age-15</li>
+			<li>Hometown-New Orleans LA</li>
+			<li>Interests
+				<ul>
+					<li>Video Games</li>
+					<li>Miniature Gaming</li>
+					<li>Board Games</li>
+			<li>Education History
+				<ul>
+					<li>Mimosa Elementary(LA)-1st to 3rd grade</li>
+					<li>Fayette Academy(TN)-4th to 6th grade</li>
+					<li>West Junior High(TN)-7th and 8th grade</li>
+					<li>Oak Park and River Forest High School(IL)-9th and 10th grade</li> 
+		</ol>
+	</p>
+	
 </div>
+
+
+
 
 <div id="footer">
 </div>
+
+
+
 
 </body>
 </html>
